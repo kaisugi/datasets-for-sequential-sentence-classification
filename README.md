@@ -13,3 +13,4 @@ Curated list of public datasets which focus on sentence classification in academ
 |  [PubMed 200k RCT](https://github.com/Franck-Dernoncourt/pubmed-rct)  | 2017 | Biomedical Sciences |  PubMed  |  Author  | 200,000   | abstracts | (5) BACKGROUND, OBJECTIVE, METHOD, RESULT, CONCLUSION |
 |  [PubMed 20k RCT](https://github.com/Franck-Dernoncourt/pubmed-rct)  | 2017 | Biomedical Sciences |  PubMed  |  Author  |    20,000   | abstracts | (5) BACKGROUND, OBJECTIVE, METHOD, RESULT, CONCLUSION |
 | [NICTA-PIBOSO](https://github.com/jind11/NICTA-PIBOSO-Dataset) | 2011 | Biomedical Sciences | PubMed | Medical experts | 1,000 | abstracts | (5+1) BACKGROUND, POPULATION, INTERVENTION, OUTCOME, STUDY DESIGN, *OTHER* |
+| [AZ Corpus](https://www.cl.cam.ac.uk/~sht25/AZ_corpus.html) | 2002 | Computational Linguistics | arXiv | Experts & Author | 80 | full paper | (6+1) AIM, TEXTUAL, OWN, BACKGROUND, CONTRAST, BASIS, *OTHER*
