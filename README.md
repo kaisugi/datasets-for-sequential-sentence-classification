@@ -6,6 +6,7 @@ Curated list of public datasets which focus on sentence classification in academ
 
 | Name | Year | Domains  | Source| Annotated by |   #Papers  |  Text Type  |  Classes  |
 |:---|---:|:---|:---|:---|---:|:---|:---|
+| [CODA-19](https://github.com/windx0303/CODA-19) | 2020 | Biomedical sciences | CORD-19 | Crowdworkers | 10,966 | abstracts | BACKGROUND, PURPOSE, METHOD, FINDING/CONTRIBUTION, OTHER |
 |  [CSABSTRUCT](https://github.com/allenai/sequential_sentence_classification)  | 2019 | Computer Science | Semantic Scholar corpus   |  Crowdworkers  |  2,189  | abstracts | BACKGROUND, OBJECTIVE, METHOD, RESULT, OTHER |
 | [CS Abstracts](https://github.com/sergiog95/csabstracts) | 2019 | Computer Science | arXiv | Crowdworkers | 654 | abstracts | BACKGROUND, OBJECTIVE, METHODS, RESULTS, CONCLUSIONS |
 |  [PubMed 200k RCT](https://github.com/Franck-Dernoncourt/pubmed-rct)  | 2017 | Biomedical sciences |  PubMed  |  Author  | 200,000   | abstracts | BACKGROUND, OBJECTIVE, METHOD, RESULT, CONCLUSION |
