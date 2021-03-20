@@ -7,6 +7,7 @@ Curated list of public datasets which focus on sentence classification in academ
 | Name | Year | Domains  | Source| Annotated by |   #Papers  |  Text Type  |  Classes  |
 |:---|---:|:---|:---|:---|---:|:---|:---|
 | [CODA-19](https://github.com/windx0303/CODA-19) | 2020 | Biomedical Sciences | CORD-19 | Crowdworkers | 10,966 | abstracts | (4+1) BACKGROUND, PURPOSE, METHOD, FINDING/CONTRIBUTION, *OTHER* |
+| [cs.combined](https://github.com/soumyaxyz/abstractAnalysis) | 2020 | Computer Science (`cs.NI` + `cs.TLT` + `cs.TPAMI`) | arXiV + IEEE Transactions | Experts | 450 | abstracts | (3) BACKGROUND, TECHNIQUE, OBSERVATION
 |  [CSABSTRUCT](https://github.com/allenai/sequential_sentence_classification)  | 2019 | Computer Science | Semantic Scholar corpus   |  Crowdworkers  |  2,189  | abstracts | (4+1) BACKGROUND, OBJECTIVE, METHOD, RESULT, *OTHER* |
 | [CS Abstracts](https://github.com/sergiog95/csabstracts) | 2019 | Computer Science | arXiv | Crowdworkers | 654 | abstracts | (5) BACKGROUND, OBJECTIVE, METHODS, RESULTS, CONCLUSIONS |
 | [PubMed PICO Element Detection Dataset](https://github.com/jind11/PubMed-PICO-Detection) | 2018 | Biomedical Sciences | PubMed | Author | 24,668 | abstracts | (7) AIM, PARTICIPANTS, INTERVENTION, OUTCOME, METHOD, RESULTS, CONCLUSION |
